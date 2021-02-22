@@ -39,3 +39,11 @@
 @PostConstruct - init-method.
 
 @PreDestroy - destroy-method.
+
+
+
+
+			HTTP
+1. Параметры GET запроса можно обработать двумя способами: 
+1) с помощью объекта HttpServletRequest 
+2) С помощью аннотации @RequestParam / @RequestParam(value = "%param%, required = false)
