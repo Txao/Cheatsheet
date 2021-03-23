@@ -73,4 +73,4 @@ object.setAge(resultSet.getInt("age"));
 
 
 			JDBC Template
-1. RowMapper певодит строки таблицы в определенный класс.
+1. RowMapper певодит строки таблицы в определенный класс
